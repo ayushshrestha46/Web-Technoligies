@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Corinthia:wght@700&family=Montserrat&display=swap');
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+#heading{
+    background-color: rgb(19, 234, 87);
+    color:black;
+    font-size:60px;
+}
+.paragraph{
+    background-color: aqua;
+    color: black;
+    font-size: 25px;
+    font-style: italic;
+}
+#p2{
+    background-color: rgb(234, 99, 236);
+    color:whitesmoke;
+    font-weight: bold;
+    font-size: 35px;
+}
+
